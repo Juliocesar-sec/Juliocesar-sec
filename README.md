@@ -9,6 +9,13 @@
   <li><a href="https://github.com/Juliocesar-sec/ActiveDirectoryLab.git">Active Directory Home Lab</a></li>
 </ul>
 
+<h2>🧱  Firewalls</h2>
+<ul>
+  <li><a href="https://github.com/Juliocesar-sec/MutillidaeII.HomeLab.git">Debian Server</a></li>
+  <li><a href="https://github.com/Juliocesar-sec/ActiveDirectoryLab.git">OpnSense</a></li>
+</ul>
+
+
 ## 👋 About Me
 [Brief introduction]<br><br>
 I'm a tech-driven professional with a deep interest in human behavior, blending software development, cybersecurity, psychoanalysis, and philosophy. I create secure, user-focused systems by combining technical expertise with behavioral insight. My work emphasizes resilience, ethical collaboration, and continuous learning to build digital environments that are both safe and human-centered.
