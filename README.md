@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/julio-melgaco-a80aa7277" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a><br>
-# 🔒 Cybersecurity Projects:
+<h2>🔒 Cybersecurity Projects:</h2>
 <h2>🧪Home Labs</h2>
 <ul>
   <li><a href="https://github.com/Juliocesar-sec/MutillidaeII.HomeLab.git">OWASP Mutillidae II Home Lab</a></li>
