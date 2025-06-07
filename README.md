@@ -6,13 +6,15 @@
 ## 👋 About Me
 [Brief introduction]
 
-I'm a multidisciplinary learner exploring the intersection of **social engineering**, **psychoanalysis**, and **cybersecurity**.
-With a foundation in **psychoanalytic theory** and growing expertise in **ethical hacking**, I focus on how psychological dynamics influence digital security. My interests include:
+I am a professional driven by a passion for technology and a deep interest in human behavior. My journey combines software development, cybersecurity, psychoanalysis, and philosophy — an integration that allows me to view technical solutions through a more strategic, empathetic, and comprehensive lens.
 
-- 🧠 Human-centered security
-- 🕵️‍♂️ Social engineering techniques
-- 🧩 Trust, manipulation, and behavior in cyber contexts
+As a developer, I work on creating intuitive interfaces and robust architectures, always focusing on security and user experience. I constantly seek to improve my skills in both front-end and back-end development, aiming to build systems that are not only functional but also resilient to digital threats.
 
+My growing specialization in cybersecurity reflects my commitment to protecting data and systems. I stay up-to-date with the evolving digital landscape, applying best practices, conducting vulnerability assessments, and developing preventive solutions to ensure information integrity.
+
+Psychoanalysis complements this work by offering a deeper understanding of human patterns — something essential for predicting user behavior and anticipating attacker strategies. This approach enables me to combine information security with behavioral analysis, resulting in more effective, human-centered, and strategic solutions.
+
+I value continuous learning, ethics, communication, and collaborative work. I believe that personal development is not an isolated process, but rather a joint construction with other professionals. That’s why I’m always open to feedback, new ideas, and constant improvement, with the goal of contributing to safer and more trustworthy digital environments. 
 I aim to develop tools and insights that integrate human psychology with cybersecurity practices.
 
 ## 🎯 Objectives
