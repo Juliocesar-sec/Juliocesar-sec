@@ -5,7 +5,7 @@
 <h2>🔒 Cybersecurity Projects:</h2>
 <ul>
   <li><a href="https://github.com/Juliocesar-sec/MutillidaeII.HomeLab.git">OWASP Mutillidae II Home Lab</a></li>
-  <li><a href="https://github.com/Juliocesar-sec/ActiveDirectoryLab.git">Active Directory Home Lab</a>a></li>
+  <li><a href="https://github.com/Juliocesar-sec/ActiveDirectoryLab.git">Active Directory Home Lab</a></li>
 </ul>
 
 ## 👋 About Me
