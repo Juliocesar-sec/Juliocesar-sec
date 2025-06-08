@@ -1,20 +1,6 @@
 # Hello, I'm Julio
 <a href="https://www.linkedin.com/in/julio-melgaco-a80aa7277" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a><br>
-<h2>🔒 Cybersecurity Projects:</h2>
-<h2>🧪Home Labs</h2>
-<ul>
-  <li><a href="https://github.com/Juliocesar-sec/MutillidaeII.HomeLab.git">OWASP Mutillidae II Home Lab</a></li>
-  <li><a href="https://github.com/Juliocesar-sec/ActiveDirectoryLab.git">Active Directory Home Lab</a></li>
-</ul>
-
-<h2>🧱  Firewalls</h2>
-<ul>
-  <li><a href="https://github.com/Juliocesar-sec/Debian-erver-.git">Debian Server</a></li>
-   <li><a href="https://github.com/Juliocesar-sec/OpnSense.git">OpnSense</a></li>
-</ul>
-
 
 ## 👋 About Me
 [Brief introduction]<br><br>
@@ -34,6 +20,21 @@ I'm a tech-driven professional with a deep interest in human behavior, blending 
 - Awareness of manipulation tactics and psychological exploitation
 - Research in human factors and cognitive biases in security
 - Scenario-based thinking and adversarial mindset
+
+- </a><br>
+<h2>🔒 Cybersecurity Projects:</h2>
+<h2>🧪Home Labs</h2>
+<ul>
+  <li><a href="https://github.com/Juliocesar-sec/MutillidaeII.HomeLab.git">OWASP Mutillidae II Home Lab</a></li>
+  <li><a href="https://github.com/Juliocesar-sec/ActiveDirectoryLab.git">Active Directory Home Lab</a></li>
+</ul>
+
+<h2>🧱  Firewalls</h2>
+<ul>
+  <li><a href="https://github.com/Juliocesar-sec/Debian-erver-.git">Debian Server</a></li>
+   <li><a href="https://github.com/Juliocesar-sec/OpnSense.git">OpnSense</a></li>
+</ul>
+
 
 
 
