@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   
 ## 👋 About Me
-[Brief introduction]<br><br>
+[Brief introduction]<br>
 I'm a tech-driven professional with a deep interest in human behavior, blending software development, cybersecurity, psychoanalysis, and philosophy. I create secure, user-focused systems by combining technical expertise with behavioral insight. My work emphasizes resilience, ethical collaboration, and continuous learning to build digital environments that are both safe and human-centered.
 
 ## 🛠️ Skills
