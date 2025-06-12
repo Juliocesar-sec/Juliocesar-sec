@@ -25,7 +25,8 @@ I'm a tech-driven professional with a deep interest in human behavior, blending 
 
 <h2>🏠 Secure Home Office Network Lab 🔒</h2>
 <ul>  
-  <li><a href="https://github.com/Juliocesar-sec/Setup.git">Setup</a></li>
+  <li><a href="https://github.com/Juliocesar-sec/Setup.git">Setup (English Version)</a></li>
+  <li><a href="https://github.com/Juliocesar-sec/Setup.Portugues.git">Setup (versão em Português)</a></li>
    <li><a href="https://github.com/Juliocesar-sec/Debian-erver-.git">Debian Server</a></li>
    <li><a href="https://github.com/Juliocesar-sec/OpnSense.git">OpnSense</a></li>
 </ul>
