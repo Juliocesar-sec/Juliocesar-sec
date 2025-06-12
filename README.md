@@ -22,16 +22,20 @@ I'm a tech-driven professional with a deep interest in human behavior, blending 
 - Scenario-based thinking and adversarial mindset
 </a><br>
 <h2>🔒 Cybersecurity Projects:</h2>
+
+<h2>🏠 Secure Home Office Network Lab 🔒</h2>
+<ul>  
+  <li><a href="https://github.com/Juliocesar-sec/Setup.git">Setup</a></li>
+   <li><a href="https://github.com/Juliocesar-sec/Debian-erver-.git">Debian Server</a></li>
+   <li><a href="https://github.com/Juliocesar-sec/OpnSense.git">OpnSense</a></li>
+</ul>
+
 <h2>🧪Home Labs</h2>
 <ul>
   <li><a href="https://github.com/Juliocesar-sec/MutillidaeII.HomeLab.git">OWASP Mutillidae II Home Lab</a></li>
   <li><a href="https://github.com/Juliocesar-sec/ActiveDirectoryLab.git">Active Directory Home Lab</a></li>
 </ul>
-<h2>🧱  Firewalls</h2>
-<ul>
-  <li><a href="https://github.com/Juliocesar-sec/Debian-erver-.git">Debian Server</a></li>
-   <li><a href="https://github.com/Juliocesar-sec/OpnSense.git">OpnSense</a></li>
-</ul>
+
 
 
 
