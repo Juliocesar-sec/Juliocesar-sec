@@ -4,9 +4,9 @@
   
 ## 👋 About Me
 [Brief introduction]<br>
-```bash
+
 "I'm a tech-driven professional with a deep interest in human behavior, integrating software development, cybersecurity, psychology, and behavioral analysis. I create secure, user-focused systems by combining technical expertise with analytical insight. My work emphasizes resilience, ethical collaboration, and continuous learning to build digital environments that are both safe and human-centered. Always seeking to learn and ready to develop new skills."
-```
+
 ## 🛠️ Skills
 ### 🧠 Psychoanalysis
 - Knowledge of object relations theory and defense mechanisms
