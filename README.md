@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+---
 
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
