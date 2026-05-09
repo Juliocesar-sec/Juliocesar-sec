@@ -18,6 +18,6 @@
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
 ![Security](https://img.shields.io/badge/Security-Hardening-red?style=for-the-badge&logo=shield)
 ![Windows](https://img.shields.io/badge/Windows-Support-0078D6?style=for-the-badge&logo=windows)
-![Google Workspace](https://img.shields.io/badge/Google-Workspace-34A853?style=for-the-badge&logo=google)
+
 
 ---
