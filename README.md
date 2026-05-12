@@ -1,6 +1,6 @@
 ##  Connect With Me
 
-<a href="https://www.linkedin.com/in/julio-cesar-9b6427373/" target="_blank">
+<a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVDuYeFdFQPecSw9l%2FY0LmQ%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
