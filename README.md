@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30">
 </a>
 &nbsp;&nbsp;
+<a href="https://www.credly.com/users/your-credly-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Credly-Badge-2A75BC?style=flat-square&logo=credly&logoColor=white" height="30">
+</a>
+&nbsp;&nbsp;
 <a href="mailto:your-email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" height="30">
 </a>
