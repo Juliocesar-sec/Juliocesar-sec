@@ -22,10 +22,6 @@
   <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
 
-<!-- ResearchGate -->
-<a href="https://www.researchgate.net/profile/your-profile">
-  <img src="https://img.shields.io/badge/ResearchGate-Connect-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
-</a>
 
 ---
 
