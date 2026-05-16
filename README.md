@@ -57,6 +57,31 @@
 
 ````
 
+<!-- Centered Skills Badges -->
+<p align="center">
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-Administration-black?style=flat-square&logo=linux&logoColor=white" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Windows-Support-0078D6?style=flat-square&logo=windows&logoColor=white" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Security-Hardening-red?style=flat-square&logo=shield&logoColor=white" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white" height="30">
+</a>
+
+</p>
+
 ---
 
 About Me
@@ -74,10 +99,3 @@ Continue developing a critical understanding of society while supporting IT syst
 
 ---
 
-![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)
-![Windows](https://img.shields.io/badge/Windows-Support-0078D6?style=for-the-badge&logo=windows)
-![Security](https://img.shields.io/badge/Security-Hardening-red?style=for-the-badge&logo=shield)
-![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
