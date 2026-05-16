@@ -1,37 +1,32 @@
  
-
-<!-- Centered Badges -->
+<!-- Centered, single-row badges (Credly-style) -->
 <p align="center">
 
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bs471702iQDWFbuCzE4jA%2Bg%3D%3D" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" width="100">
+<a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVDuYeFdFQPecSw9l%2FY0LmQ%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30">
 </a>
-
-<!-- Email -->
+&nbsp;&nbsp;
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" width="100">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" height="30">
 </a>
-
-<!-- Signal -->
+&nbsp;&nbsp;
 <a href="https://signal.me/#p/your-number-or-username" target="_blank">
-  <img src="https://img.shields.io/badge/Signal-Message-3A76F0?style=flat&logo=signal&logoColor=white" width="100">
+  <img src="https://img.shields.io/badge/Signal-Message-3A76F0?style=flat-square&logo=signal&logoColor=white" height="30">
 </a>
-
-<!-- GitHub -->
+&nbsp;&nbsp;
 <a href="https://github.com/Juliocesar-sec" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white" width="100">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" height="30">
 </a>
-
-<!-- Portfolio -->
+&nbsp;&nbsp;
 <a href="https://yourwebsite.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-4ABDAC?style=flat&logo=ko-fi&logoColor=white" width="100">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4ABDAC?style=flat-square&logo=ko-fi&logoColor=white" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="30">
 </a>
 
-<!-- Twitter -->
-<a href="https://twitter.com/your-profile" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" width="100">
-</a>
+</p>
 
 
 ````
