@@ -1,5 +1,4 @@
  
-### Connect With Me
 
 <!-- Centered Badges -->
 <p align="center">
