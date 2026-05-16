@@ -100,5 +100,6 @@ Apply analytical thinking to both digital systems and human interactions.
 Continue developing a critical understanding of society while supporting IT systems effectively.
 
 </p>
+
 ---
 
