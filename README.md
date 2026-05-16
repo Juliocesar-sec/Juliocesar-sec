@@ -1,4 +1,21 @@
-# Connect With Me
+ghost = """
+0000001111000000
+0000111111110000
+0001111111111000
+0011111111111100
+0111101111011110
+0111111111111110
+0111111111111110
+0011111111111100
+0001111011111000
+0000111111110000
+0000011111100000
+0000001111000000
+"""
+
+print("\033[95m" + ghost + "\033[0m")
+
+### Connect With Me
 
 <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVDuYeFdFQPecSw9l%2FY0LmQ%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
