@@ -90,15 +90,15 @@ I study critical theories of psychoanalysis and social analysis, focusing on alt
 
 <h2 align="center">Skills & Interests</h2>
 
-Psychoanalysis & Social Theory: Exploring non-traditional, critical approaches.
-IT Support & Technical Analysis: Problem-solving, system troubleshooting, and user support.
-Social Analysis: Observing and interpreting social structures and behaviors, with attention to technology’s role.
+- **Psychoanalysis & Social Theory:** Exploring non-traditional, critical approaches.  
+- **IT Support & Technical Analysis:** Problem-solving, system troubleshooting, and user support.  
+- **Social Analysis:** Observing and interpreting social structures and behaviors, with attention to technology’s role.
 
 <h2 align="center">Goals</h2>
 
-Integrate theoretical insights from psychoanalysis and social studies into practical contexts.
-Apply analytical thinking to both digital systems and human interactions.
-Continue developing a critical understanding of society while supporting IT systems effectively.
+- Integrate theoretical insights from psychoanalysis and social studies into practical contexts.
+- Apply analytical thinking to both digital systems and human interactions.
+- Continue developing a critical understanding of society while supporting IT systems effectively.
 
 
 
