@@ -86,7 +86,7 @@
 
 <h2 align="center">About Me</h2>
 
-I study critical theories of psychoanalysis and social analysis, focusing on alternative perspectives that challenge mainstream ideas. I combine this academic interest with practical experience in IT support, giving me a unique lens on social systems and human behavior in digital contexts.
+  I study critical theories of psychoanalysis and social analysis, focusing on alternative perspectives that challenge mainstream ideas. I combine this academic interest with practical experience in IT support, giving me a unique lens on social systems and human behavior in digital contexts.
 
 <h2 align="center">Skills & Interests</h2>
 
