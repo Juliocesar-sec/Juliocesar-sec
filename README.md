@@ -1,35 +1,35 @@
 
 ### Connect With Me
 
+<!-- LinkedIn -->
 <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVDuYeFdFQPecSw9l%2FY0LmQ%3D%3D" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
+<!-- Email -->
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-
+<!-- Signal -->
 <a href="https://signal.me/#p/your-number-or-username" target="_blank">
-  <img src="https://img.shields.io/badge/Signal-Message-3A76F0?style=for-the-badge&logo=signal&logoColor=white">
+  <img src="https://img.shields.io/badge/Signal-Message-3A76F0?style=flat-square&logo=signal&logoColor=white">
 </a>
 
-
+<!-- GitHub -->
 <a href="https://github.com/Juliocesar-sec" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 
-
-<!-- Personal Portfolio -->
-<a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-4ABDAC?style=for-the-badge&logo=ko-fi&logoColor=white">
+<!-- Portfolio -->
+<a href="https://yourwebsite.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4ABDAC?style=flat-square&logo=ko-fi&logoColor=white">
 </a>
 
 <!-- Twitter -->
-<a href="https://twitter.com/your-profile">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="https://twitter.com/your-profile" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white">
 </a>
-
 
 
 ````
