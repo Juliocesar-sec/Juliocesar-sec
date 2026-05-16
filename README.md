@@ -90,9 +90,10 @@
 
 <h2 align="center">Skills & Interests</h2>
 
-- **Psychoanalysis & Social Theory:** Exploring non-traditional, critical approaches.  
-- **IT Support & Technical Analysis:** Problem-solving, system troubleshooting, and user support.  
+- **IT Support & Technical Analysis:** Problem-solving, system troubleshooting, and user support. 
+- **SOC & Security Operations:** Experience collaborating with SOC teams to monitor, detect, and respond to cybersecurity incidents.  
 - **Social Analysis:** Observing and interpreting social structures and behaviors, with attention to technology’s role.
+- **Psychoanalysis & Social Theory:** Exploring non-traditional, critical approaches.  
 
 <h2 align="center">Goals</h2>
 
