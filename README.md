@@ -12,6 +12,21 @@
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<!-- Personal Portfolio -->
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4ABDAC?style=for-the-badge&logo=ko-fi&logoColor=white">
+</a>
+
+<!-- Twitter -->
+<a href="https://twitter.com/your-profile">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+
+<!-- ResearchGate -->
+<a href="https://www.researchgate.net/profile/your-profile">
+  <img src="https://img.shields.io/badge/ResearchGate-Connect-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
+</a>
+
 ---
 
 About Me
@@ -30,9 +45,9 @@ Continue developing a critical understanding of society while supporting IT syst
 ---
 
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-Support-0078D6?style=for-the-badge&logo=windows)
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
 ![Security](https://img.shields.io/badge/Security-Hardening-red?style=for-the-badge&logo=shield)
-![Windows](https://img.shields.io/badge/Windows-Support-0078D6?style=for-the-badge&logo=windows)
 
 
 ---
