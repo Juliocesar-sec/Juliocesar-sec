@@ -84,22 +84,23 @@
 
 ---
 
-<p align="center">
- 
-About Me
+<h2 align="center">About Me</h2>
 
 I study critical theories of psychoanalysis and social analysis, focusing on alternative perspectives that challenge mainstream ideas. I combine this academic interest with practical experience in IT support, giving me a unique lens on social systems and human behavior in digital contexts.
 
-Skills & Interests
+<h2 align="center">Skills & Interests</h2>
+
 Psychoanalysis & Social Theory: Exploring non-traditional, critical approaches.
 IT Support & Technical Analysis: Problem-solving, system troubleshooting, and user support.
 Social Analysis: Observing and interpreting social structures and behaviors, with attention to technology’s role.
-Goals
+
+<h2 align="center">Goals</h2>
+
 Integrate theoretical insights from psychoanalysis and social studies into practical contexts.
 Apply analytical thinking to both digital systems and human interactions.
 Continue developing a critical understanding of society while supporting IT systems effectively.
 
-</p>
+
 
 ---
 
