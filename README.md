@@ -42,8 +42,8 @@ Continue developing a critical understanding of society while supporting IT syst
 
 ![Linux](https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-Support-0078D6?style=for-the-badge&logo=windows)
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Hardening-red?style=for-the-badge&logo=shield)
-
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
