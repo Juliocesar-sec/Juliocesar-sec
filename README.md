@@ -1,5 +1,9 @@
-
+ 
 ### Connect With Me
+
+<!-- Centered Badges -->
+<p align="center">
+
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BVDuYeFdFQPecSw9l%2FY0LmQ%3D%3D" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" width="100">
