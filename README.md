@@ -10,8 +10,8 @@
 </a>
 
 
-<a href="https://signal.me" target="_blank">
-  <img src="https://shields.io">
+<a href="https://signal.me/#p/your-number-or-username" target="_blank">
+  <img src="https://img.shields.io/badge/Signal-Message-3A76F0?style=for-the-badge&logo=signal&logoColor=white">
 </a>
 
 
