@@ -33,7 +33,7 @@
 </p>
 
 
-<h2 align="center">
+
 ````
 
 
@@ -60,7 +60,6 @@
                          `--------`                              `--------`                             
 
 ````
-</h2>
 
 <!-- Centered Skills Badges -->
 <p align="center">
