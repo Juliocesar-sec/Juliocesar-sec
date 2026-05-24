@@ -28,7 +28,14 @@
 
 </p>
 
-<pre style="font-size: clamp(4px, 1.5vw, 12px); line-height: 1.2;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200">
+  <style>
+    text { font-family: monospace; font-size: 11px; fill: #e6edf3; white-space: pre; }
+  </style>
+  <rect width="1200" height="200" fill="#0d1117"/>
+  <text x="10" y="20" xml:space="preserve">your art line 1</text>
+  <text x="10" y="34" xml:space="preserve">your art line 2</text>
+
      ▄████████▄         .-"      "-.         ▄████████▄         .-"      "-.         ▄████████▄        
     ████████████       /            \       ████████████       /            \       ████████████       
    ██░░████░░████     |,  .-.  .-.  ,|     ██░░████░░████     |,  .-.  .-.  ,|     ██░░████░░████     
@@ -50,7 +57,7 @@
    ████  ██  ████       | \IIIIII/ |       ████  ██  ████       | \IIIIII/ |       ████  ██  ████       
    ▀▀▀▀  ▀▀  ▀▀▀▀       \          /       ▀▀▀▀  ▀▀  ▀▀▀▀       \          /       ▀▀▀▀  ▀▀  ▀▀▀▀       
                          `--------`                              `--------`                             
-</pre>
+</svg>
  
 <!-- Centered Skills Badges -->
 <p align="center">
