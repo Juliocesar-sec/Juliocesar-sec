@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="./banner.svg" alt="banner" width="100%">
+  <img src="https://github.com/Juliocesar-sec/Cybersecurity-Portfolio/blob/eac85631afa3f78f3d896974e7bb0f795ec3bcef/Image/banner.svg" alt="banner" width="100%">
 </p>
 
  
