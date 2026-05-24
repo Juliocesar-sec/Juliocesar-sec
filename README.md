@@ -22,12 +22,8 @@
   <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" height="30">
 </a>
 &nbsp;&nbsp;
-<a href="https://yourwebsite.com" target="_blank">
+<a href="https://calma-la.com" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Visit-4ABDAC?style=flat-square&logo=ko-fi&logoColor=white" height="30">
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/your-profile" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="30">
 </a>
 
 </p>
