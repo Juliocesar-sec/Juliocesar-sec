@@ -28,9 +28,67 @@
 
 </p>
 
-<p align="center">
-  <img src="https://github.com/Juliocesar-sec/Cybersecurity-Portfolio/blob/eac85631afa3f78f3d896974e7bb0f795ec3bcef/Image/banner.svg" alt="banner" width="100%">
-</p>
+
+<svg xmlns="http://w3.org" viewBox="0 0 1000 200" width="100%" height="100%">
+  <defs>
+    <!-- Background Color Pattern -->
+    <style>
+      .bg { fill: #070b12; }
+      .art { fill: #a5b4fc; }
+    </style>
+
+    <!-- Definition of a Single Arch/Ghost Figure -->
+    <g id="figure">
+      <path class="art" d="
+        M 10,60 H 20 V 160 H 10 Z
+        M 25,40 H 35 V 160 H 25 Z
+        M 40,30 H 50 V 120 H 40 Z
+        M 40,140 H 50 V 160 H 40 Z
+        M 55,30 H 65 V 120 H 55 Z
+        M 55,140 H 65 V 160 H 55 Z
+        M 70,40 H 80 V 160 H 70 Z
+        M 85,60 H 95 V 160 H 85 Z
+      "/>
+    </g>
+
+    <!-- Definition of a Single Skull Figure -->
+    <g id="skull">
+      <path class="art" d="
+        M 25,40 H 35 V 50 H 25 Z
+        M 65,40 H 75 V 50 H 65 Z
+        M 15,60 H 25 V 110 H 15 Z
+        M 75,60 H 85 V 110 H 75 Z
+        M 30,70 H 40 V 85 H 30 Z
+        M 60,70 H 70 V 85 H 60 Z
+        M 45,95 H 55 V 110 H 45 Z
+        M 25,120 H 75 V 125 H 25 Z
+        M 30,135 H 35 V 155 H 30 Z
+        M 40,135 H 45 V 155 H 40 Z
+        M 50,135 H 55 V 155 H 50 Z
+        M 60,135 H 65 V 155 H 60 Z
+        M 70,135 H 75 V 155 H 70 Z
+        M 25,155 H 75 V 160 H 25 Z
+      "/>
+    </g>
+
+    <!-- Seamless Pattern Unit combining both structures -->
+    <pattern id="banner-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <!-- Top Row -->
+      <use href="#figure" x="0" y="-15"/>
+      <use href="#skull" x="100" y="-15"/>
+      <!-- Bottom Row -->
+      <use href="#figure" x="0" y="85"/>
+      <use href="#skull" x="100" y="85"/>
+    </pattern>
+  </defs>
+
+  <!-- Banner Background Area -->
+  <rect width="1000" height="200" class="bg" />
+
+  <!-- Infinite Pattern Overlay Area -->
+  <rect width="1000" height="200" fill="url(#banner-pattern)" />
+</svg>
+
 
  
 <!-- Centered Skills Badges -->
