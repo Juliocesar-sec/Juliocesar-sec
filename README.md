@@ -29,8 +29,6 @@
 </p>
 
 <pre style="font-size: clamp(4px, 1.5vw, 12px); line-height: 1.2;">
-  your art here
-
 ````
 
 
